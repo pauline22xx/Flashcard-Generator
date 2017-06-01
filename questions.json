@@ -1,0 +1,34 @@
+[{
+	"cardType": "Basic",
+	"text": "Who was the first president of the United States?",
+	"answer": "George Washington"
+},
+{
+
+	"cardType": "Cloze",
+	"text": "Who was the sixteenth president of the United States?",
+	"answer": "Abraham Lincoln"
+},
+{
+
+	"cardType": "Basic",
+	"text": "Who was the thirty-fifth president of the United States?",
+	"answer": "John F. Kennedy"
+},
+{
+
+	"cardType": "Cloze",
+	"text": "Who was the third president of the United States?",
+	"answer": "Thomas Jefferson"
+
+}]
+
+
+
+
+
+
+
+
+
+
